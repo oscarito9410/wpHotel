@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Becarios.ViewModel.DelegateCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.DelegateCommand&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.WindowActionEventArgs" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAIAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.ViewModel.MessageDialogAsyncEventArgs" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.ViewModel.ViewModelBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABCAACAAAAgAAAAAgAAgAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.ViewModelClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAkUAAAAACQDICAQAQAAaBAAAEBQBAAAIABgiAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.ViewModelHabitacion" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEUAAAAACQBIAAQCQAAaAAAAEAABABAAABAiAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelHabitacion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.ViewModelProductos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEUAAAAACQDIAAQAQAQaAAAAEAABBAAAABAiIAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelProductos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Becarios.ViewModel.ViewModelUsuario" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgAEABIAAAAAAQAACAEAAAAQAAAAAFAiAAAAQ=</HashCode>
+      <FileName>ViewModel\ViewModelUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Model.Cliente" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAEgAQAAAAAAQCgAgBAAAAAAAgCAAACAAAAACLAQgM=</HashCode>
+      <FileName>Model\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Model.Habitacion" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAATAAAAAAAAAAAAIAAAAAAAAgAEAAAAAEAAAAAAEI=</HashCode>
+      <FileName>Model\Habitacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Model.Producto" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAAAAAAAAEAAEAAAAQAgAAECAAAAAAAAAgAEA=</HashCode>
+      <FileName>Model\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Model.Usuarios" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAgIAAAA=</HashCode>
+      <FileName>Model\Usuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Bd.CrudCliente" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAASAAAAAAAAAAAABAAAAAQAAQAIAAAA=</HashCode>
+      <FileName>Bd\CrudCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Bd.CrudHabitacion" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACAAAAAAAAAAAABAAAAAQAAAAIAAAQ=</HashCode>
+      <FileName>Bd\CrudHabitacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Bd.CrudProducto" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACAAAAAAAAAAAABAAAAAQAAQAIAAAA=</HashCode>
+      <FileName>Bd\CrudProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Bd.CrudUsuario" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAIAAAAACAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Bd\CrudUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Becarios.Bd.ICrudHelper" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAICAAAAAAAAACAAAAAAAAIACABAACAAQAAAAAAABA=</HashCode>
+      <FileName>Bd\ICrudHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Becarios.ViewModel.ICustomCommand" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEQAAAAACABIAAQAQAAaAAAAEAABAAAAABAAAAAAA=</HashCode>
+      <FileName>ViewModel\ICustomCommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

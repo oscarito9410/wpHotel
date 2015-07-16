@@ -1,0 +1,50 @@
+﻿<Controls:MetroWindow x:Class="Becarios.View.OptionMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Becarios.View"
+        mc:Ignorable="d"
+        Title="OptionMenu" Height="600" Width="600" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Controls:MetroWindow.Background>
+        <ImageBrush ImageSource="/Becarios;component/Imagenes/fondo.jpg"/>
+    </Controls:MetroWindow.Background>
+    <Grid VerticalAlignment="Center"  HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        
+        <Controls:Tile Title="Clientes" x:Name="tileCliente"  Click="tileCliente_Click">
+            <Image Source="/Imagenes/cliente.png"/>
+        </Controls:Tile>
+
+       <Controls:Tile Title="Productos" x:Name="tileReservaciones" Grid.Column="1" Click="tileReservaciones_Click">
+        <Image Source="/Imagenes/reservaciones.png"/>
+        </Controls:Tile>
+
+        <Controls:Tile Title="Habitaciones" x:Name="tileHabitaciones" Grid.Column="2" Click="tileHabitaciones_Click">
+            <Image Source="/Imagenes/habitaciones.png"/>
+        </Controls:Tile>
+
+        <Controls:Tile Title="Restaurante" x:Name="tileRestaurante" Grid.Row="1" Click="tileRestaurante_Click">
+            <Image Source="/Imagenes/Restaurant.png"/>
+        </Controls:Tile>
+
+        <Controls:Tile Title="Consultas" x:Name="tileConsultas" Grid.Row="1" Grid.Column="1" Click="tileConsultas_Click">
+            <Image Source="/Imagenes/busqueda.png"/>
+        </Controls:Tile>
+
+        <Controls:Tile Title="Cerrar sesión" x:Name="tileExit" Grid.Row="1" Grid.Column="2" Click="tileExit_Click">
+            <Image Source="/Imagenes/Logout.png"/>
+        </Controls:Tile>
+    </Grid>
+</Controls:MetroWindow>

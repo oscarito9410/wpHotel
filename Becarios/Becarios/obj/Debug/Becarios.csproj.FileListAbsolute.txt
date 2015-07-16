@@ -1,0 +1,45 @@
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\Becarios.exe.config
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.exe
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.pdb
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.csprojResolveAssemblyReference.cache
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\MainWindow.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Resources\Icons.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\MainWindow.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Resources\Icons.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\Habitaciones.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\OptionMenu.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\App.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios_MarkupCompile.cache
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios_MarkupCompile.lref
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ClientesView.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\Becarios.exe
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\Becarios.pdb
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\MahApps.Metro.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\MySql.Data.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\MahApps.Metro.xml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\App.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ClientesView.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\Habitaciones.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\OptionMenu.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.g.resources
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.Properties.Resources.resources
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\Becarios.csproj.GenerateResource.Cache
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ProductosView.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ProductosView.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\Restaurante.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\Restaurante.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\RdlCompile.cache
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\RdlCompile.compiled
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ReporteGastos.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\ReporteGastos.baml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\TicketPopUp.g.cs
+C:\Users\OSCARITO\Documents\Visual Studio 2013\Projects\Becarios\Becarios\obj\Debug\View\TicketPopUp.baml
+C:\Users\OSCARITO\Documents\GitHubVisualStudio\wpHotel\Becarios\Becarios\bin\Debug\Becarios.exe.config
+C:\Users\OSCARITO\Documents\GitHubVisualStudio\wpHotel\Becarios\Becarios\obj\Debug\Becarios.exe
+C:\Users\OSCARITO\Documents\GitHubVisualStudio\wpHotel\Becarios\Becarios\obj\Debug\Becarios.pdb
